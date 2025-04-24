@@ -1,1 +1,1 @@
-# Projeto-02-Busca-de-Perfil-no-GitHub
+# 🚀 Projeto 02 Busca de Perfil no GitHub
